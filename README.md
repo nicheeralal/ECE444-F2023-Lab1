@@ -19,3 +19,13 @@ on the lab3 branch. E.g. print the version of Docker.
 of your webpage
 
 ![Screenshot of Lab 3 Activity 3](/Screenshots/Lab3/Activity3_Lab3.png)
+
+### Activity 4
+
+ Here is a screenshot of the log message for the commands I used to build and run docker images with the Docker commands.
+![Screenshot of Lab 3 Activity 4 Docker Commands](/Screenshots/Lab3/Activity4_Lab3_log_info.png)
+
+Here is a screenshot of the application running on http://localhost:5000 after running the Docker commands noted above. 
+![Screenshot of Lab 3 Activity 4 Docker Commands](/Screenshots/Lab3/Activity4_Lab3_running_application.png) 
+
+
